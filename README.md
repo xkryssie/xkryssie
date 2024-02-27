@@ -12,17 +12,9 @@
     <img src="https://img.shields.io/badge/xkryssie-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
 </div>
 </h2>
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
 Hello, I am currently a Software Engineer 2 @ The Home Depot. 
 
 </p>
 
-<!--START_SECTION:SHOW_COMMIT-->
-<!--END_SECTION:SHOW_COMMIT-->
-
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
-
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
