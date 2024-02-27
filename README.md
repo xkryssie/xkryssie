@@ -1,5 +1,8 @@
+<p align="center">
 <img src="https://github.com/xkryssie/xkryssie/assets/16921259/5dd545a7-5d19-4a07-9791-e5bcda6fed06" width=50>
+
 ### Greetings and Salutations! I'm Kryssie!
+</p>
 
 
 <!--
