@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -35,19 +33,19 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16 commits          ██████████████████░░░░░░░   72.73 % 
-🌆 Daytime                6 commits           ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+🌞 Morning                18 commits          ███████████████████░░░░░░   75.00 % 
+🌆 Daytime                6 commits           ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5 commits           ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Tuesday                  5 commits           ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Thursday                 7 commits           ████████░░░░░░░░░░░░░░░░░   31.82 % 
-Friday                   4 commits           █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Monday                   5 commits           █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Tuesday                  7 commits           ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Thursday                 7 commits           ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Friday                   4 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -63,12 +61,6 @@ No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,10 +73,6 @@ C#                       1 repo              ████████░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/xkryssie/xkryssie/master/assets/bar_graph.png)
-
-
- Last Updated on 27/02/2024 14:52:55 UTC
+ Last Updated on 27/02/2024 15:02:58 UTC
 <!--END_SECTION:waka-->
