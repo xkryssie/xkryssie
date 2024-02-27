@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/xkryssie-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
 </div>
 </h2>
-Hello, I am currently a Software Engineer 2 @ The Home Depot. 
+I am an avid gamer who is a Software Engineer 2 @ The Home Depot. 
+
 
 </p>
 
