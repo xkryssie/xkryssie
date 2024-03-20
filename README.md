@@ -24,8 +24,6 @@ I am an avid gamer who is a Software Engineer 2 @ The Home Depot.
 
 > 📦 34.3 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -76,5 +74,5 @@ C#                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 19/03/2024 18:35:02 UTC
+ Last Updated on 20/03/2024 18:35:15 UTC
 <!--END_SECTION:waka-->
