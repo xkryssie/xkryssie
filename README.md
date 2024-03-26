@@ -59,10 +59,10 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               30 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,5 +76,5 @@ C#                       1 repo              ██████░░░░░�
 
 
 
- Last Updated on 25/03/2024 18:35:07 UTC
+ Last Updated on 26/03/2024 18:35:02 UTC
 <!--END_SECTION:waka-->
