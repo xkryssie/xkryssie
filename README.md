@@ -22,7 +22,7 @@ I am an avid gamer who is a Software Engineer 2 @ The Home Depot.
 
 **🐱 My GitHub Data** 
 
-> 📦 48.2 kB Used in GitHub's Storage 
+> 📦 48.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,10 +57,14 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 4 mins         ████████████████░░░░░░░░░   64.60 % 
+Go                       29 mins             ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+SCSS                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,5 +78,5 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 04/04/2024 18:35:16 UTC
+ Last Updated on 05/04/2024 18:35:01 UTC
 <!--END_SECTION:waka-->
