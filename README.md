@@ -24,45 +24,14 @@ I am an avid gamer who is a Software Engineer 2 @ The Home Depot.
 
 > 📦 53.6 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                89 commits          █████████████████░░░░░░░░   68.46 % 
-🌆 Daytime                41 commits          ████████░░░░░░░░░░░░░░░░░   31.54 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Tuesday                  48 commits          █████████░░░░░░░░░░░░░░░░   36.92 % 
-Wednesday                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Thursday                 46 commits          █████████░░░░░░░░░░░░░░░░   35.38 % 
-Friday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -74,5 +43,5 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/09/2025 18:41:30 UTC
+ Last Updated on 16/09/2025 18:41:16 UTC
 <!--END_SECTION:waka-->
