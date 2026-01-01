@@ -18,13 +18,13 @@ I am an avid gamer who is a Software Engineer 2 @ The Home Depot.
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-357.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-357.57%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 53.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,5 +76,5 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:44:33 UTC
+ Last Updated on 01/01/2026 18:44:56 UTC
 <!--END_SECTION:waka-->
