@@ -9,7 +9,6 @@
   <a href="https://www.instagram.com/xkryssie/">
     <img src="https://img.shields.io/badge/xkryssie-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instgram Badge"/>
   </a>
-    <img src="https://img.shields.io/badge/xkryssie-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
 </div>
 </h2>
 I am an avid gamer who is a Software Engineer 2 @ The Home Depot. 
